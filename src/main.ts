@@ -1,7 +1,7 @@
 import "./style.css";
 import * as d3 from "d3";
 
-import { barChart } from "./bar-chart";
+import { barChart } from "./bar-chart2";
 import { Int32, Table, Utf8 } from "apache-arrow";
 import { db } from "./duckdb";
 import parquet from "./weather.parquet?url";
