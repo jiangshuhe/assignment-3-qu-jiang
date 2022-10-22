@@ -5,8 +5,9 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
+#read
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
