@@ -20,7 +20,7 @@ You can fix a lot of issues autoamtically with `yarn format`.
 
 ## Deployment
 
-When you push to GitHub, the app automatically deploys to GitHub Pages. As an example, this template repositroy is deployed at [domoritz.github.io/D3-App-Template](https://domoritz.github.io/D3-App-Template/). See `deploy.yml` for details. Make sure to update the `base` property in `vit.config.ts` to match your repo name.
+When you push to GitHub, the app automatically deploys to GitHub Pages. As an example, this template repositroy is deployed at [CMU-Vis-2022.github.io/assignment-3-qu-jiang](CMU-Vis-2022.github.io/assignment-3-qu-jiang/). See `deploy.yml` for details. Make sure to update the `base` property in `vit.config.ts` to match your repo name.
 
 ## Notes
 
